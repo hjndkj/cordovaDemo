@@ -1,0 +1,51 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    },
+    "cordova-plugin-x5-webview": {
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    },
+    "jpush-phonegap-plugin": {
+      "APP_KEY": "a722e35a75a338c4d54f4a65",
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    },
+    "cordova-plugin-wechat": {
+      "WECHATAPPID": "wx2b45261461512699",
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-jcore": {
+      "PACKAGE_NAME": "com.example.cordovaDemo"
+    }
+  }
+}
